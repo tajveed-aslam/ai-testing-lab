@@ -1,0 +1,7 @@
+google-genai
+chromadb
+fastapi
+uvicorn
+python-dotenv
+pytest
+httpx
