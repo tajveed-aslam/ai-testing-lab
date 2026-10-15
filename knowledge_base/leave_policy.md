@@ -25,6 +25,15 @@ Employees receive **10 days** of paid sick leave per year. A doctor's note is re
 Birth parents receive **16 weeks** of fully paid parental leave. Non-birth parents receive **6 weeks** of fully paid
 leave. Parental leave can start up to 2 weeks before the expected due date.
 
+## Observance and pilgrimage leave
+
+Employees may take up to **3 days** of paid observance leave per calendar year for days of faith or cultural
+observance that are not already public holidays. These days do not reduce annual leave.
+
+For a pilgrimage, employees may take up to **10 working days** of additional unpaid leave once every **2 years**.
+Pilgrimage leave must be requested in the HR portal at least **6 weeks** in advance and can be combined with annual
+leave.
+
 ## Public holidays
 
 NovaTech observes the public holidays of the country in which the employee is employed. These are in addition to
